@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "nestjs-hexagonal-architecture-sample": "apps/nestjs-hexagonal-architecture-sample"
+  }
+}
